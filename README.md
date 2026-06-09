@@ -5,7 +5,7 @@
 <!-- ░░░ TEXTE QUI SE TAPE TOUT SEUL ░░░ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Building+agentic+systems;Foundation+models+%26+forecasting;Currently+doing+something" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Building+systems;AI/ML+%26+softwares;Currently+doing+something" alt="Typing SVG" />
   </a>
 </div>
 
