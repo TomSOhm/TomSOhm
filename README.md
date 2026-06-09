@@ -32,7 +32,7 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,huggingface,langchain,pytorch,tensorflow,scikitlearn,python,numpy,pandas,fastapi,postgresql,mongodb,redis,docker,gcp,git,linux,docker,kubernetes,postgres,aws&titles=true&perline=6&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,huggingface,langchain,pytorch,tensorflow,scikitlearn,python,numpy,pandas,fastapi,postgresql,mongodb,redis,docker,gcp,git,linux,docker,kubernetes,postgres,aws, google, vercel&titles=true&perline=6&theme=light" />
 </p>
 
 <!--  STATS GITHUB ANIMÉES 
