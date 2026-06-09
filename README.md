@@ -1,5 +1,5 @@
 <!-- ░░░ BANNIÈRE ANIMÉE (vague) ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20mI'm%20c'est%20Tom%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20•%20Freelance&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Tom%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20•%20Freelance&descSize=18&descAlignY=55" />
 
 
 <!-- ░░░ TEXTE QUI SE TAPE TOUT SEUL ░░░ -->
