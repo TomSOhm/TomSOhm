@@ -5,7 +5,7 @@
 <!-- ░░░ TEXTE QUI SE TAPE TOUT SEUL ░░░ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Je+construis+des+syst%C3%A8mes+multi-agents;Foundation+models+%26+forecasting;Currently+doing+something" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+agentic+systems;Foundation+models+%26+forecasting;Currently+doing+something" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 </p>
 
 
-<!--  STATS GITHUB ANIMÉES  -->
+<!--  STATS GITHUB ANIMÉES 
 ## 📊 Mes stats
 
 <div align="center">
@@ -47,7 +47,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=TomSOhm&theme=tokyonight&hide_border=true" />
 </div>
-
+ -->
 
 <!--  SERPENT ANIMÉ 🐍  -->
 <div align="center">
