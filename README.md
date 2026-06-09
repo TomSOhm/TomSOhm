@@ -1,11 +1,11 @@
 <!-- ░░░ BANNIÈRE ANIMÉE (vague) ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salut,%20moi%20c'est%20[Prénom]%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20•%20Freelance&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20mI'm%20c'est%20Tom%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20•%20Freelance&descSize=18&descAlignY=55" />
 
 
 <!-- ░░░ TEXTE QUI SE TAPE TOUT SEUL ░░░ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Je+construis+des+syst%C3%A8mes+multi-agents;Foundation+models+%26+forecasting;Toujours+en+train+d'apprendre+un+truc" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Je+construis+des+syst%C3%A8mes+multi-agents;Foundation+models+%26+forecasting;Currently+doing+something" alt="Typing SVG" />
   </a>
 </div>
 
