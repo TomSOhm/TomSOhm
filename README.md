@@ -5,7 +5,7 @@
 <!-- ░░░ TEXTE QUI SE TAPE TOUT SEUL ░░░ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+agentic+systems;Foundation+models+%26+forecasting;Currently+doing+something" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Building+agentic+systems;Foundation+models+%26+forecasting;Currently+doing+something" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,9 +32,8 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,kubernetes,postgres,aws,git,linux&perline=10" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,huggingface,langchain,pytorch,tensorflow,scikitlearn,python,numpy,pandas,fastapi,postgresql,mongodb,redis,docker,gcp,git,linux&titles=true&perline=6&theme=light" />
 </p>
-
 
 <!--  STATS GITHUB ANIMÉES 
 ## 📊 Mes stats
