@@ -24,7 +24,7 @@
 ## 🚀 À propos
 
 - 🔭 Je travaille en ce moment sur **AskWrong, Statistics Analyses for Research Medical Paper**
-- 🌱 J'explore **Vulkan, TimeseriesForecasting, Large Agentic Systems, Concurrent execution**
+- 🌱 J'explore **Vulkan, Foundation Models for TimeseriesForecasting, Agentic Systems, Concurrent execution**
 - 💬 Parle-moi de **IA, multi-agents, forecasting, MLOps, System Design, Computer Vision**
 
 
