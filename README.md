@@ -23,7 +23,7 @@
 <!-- ░░░ À PROPOS ░░░ -->
 ## 🚀 À propos
 
-- 🔭 Je travaille en ce moment sur **Learning Plateform called AskWrong, **
+- 🔭 Je travaille en ce moment sur Learning Plateform called AskWrong
 - 🌱 J'explore **Vulkan, Foundation Models for TimeseriesForecasting, Agentic Systems, Statistics Analyses for Research Medical Paper**
 - 💬 Parle-moi de **IA, multi-agents, forecasting, MLOps, System Design, Computer Vision, Concurrent execution**
 
